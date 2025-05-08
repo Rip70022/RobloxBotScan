@@ -25,16 +25,14 @@ An advanced system for scanning Roblox servers and detecting potential bots in r
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/roblox-bot-scanner.git
-   cd roblox-bot-scanner
+   git clone https://github.com/Rip70022/RobloxBotScan.git 
+   cd RobloxBotScan
    ```
-Install required dependencies:
-
-bash
-Copy
-Edit
+2. Install required dependencies:
+```
 pip install numpy
-Ensure the custom roblox modules are available in your environment.
+```
+`Ensure the custom roblox modules are available in your environment.`
 
 ## 🕹️ Usage:
 **Run the script:**
